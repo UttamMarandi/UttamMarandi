@@ -15,7 +15,7 @@
 
 - 📫 You can reach me using my mail **uttammarandi007@gmail.com**
 
-- 📄 My Resume [Uttam Marandi Resume](https://drive.google.com/file/d/1n4sV-OVe3569wfjGk9d20Nn3wv88O51I/view?usp=sharing)
+- 📄 My Resume [Uttam Marandi Resume](https://drive.google.com/file/d/1ETyZbbQdJ2nsOtRm0HJtjBoj2q-oJnYQ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
