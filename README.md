@@ -3,8 +3,10 @@
 <h2 align="center">Hi there 👋, I am Uttam and I am a full stack developer.</h2>
 <h3 align="center">I started as a frontend developer and with time I have ventured towards backend technologies in my three years of experience.</h3>
 
-- 🔭 I’m currently working on [FoodHub-Admin Panel](https://github.com/UttamMarandi/AdminPanel-FoodHub)
-
+- 🔭 I’m currently working on [Crescentic](https://www.crescentic.com/)
+  
+- 👨‍💻 Building (Jhunak - Thoughtful Productive Tools)(https://jhunak.com)
+   
 - 🌱 I’m currently learning Backend technologies like **AWS, Docker and Jenkins.**
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://uttam-marandi-portfolio.vercel.app/)
