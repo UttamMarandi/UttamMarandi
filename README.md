@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Crescentic](https://www.crescentic.com/)
   
-- 👨‍💻 Building (Jhunak - Thoughtful Productive Tools)(https://jhunak.com)
+- 👨‍💻 Building [Jhunak - Thoughtful Productive Tools](https://jhunak.com)
    
 - 🌱 I’m currently learning Backend technologies like **AWS, Docker and Jenkins.**
 
